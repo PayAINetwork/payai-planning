@@ -1,5 +1,5 @@
 # payai-planning
-Planning our ride through PayAI silicon
+Planning our Human to Agent monetization system
 
 
 # PayAI MCP Server Plans
