@@ -1,3 +1,15 @@
+# PayAI
+
+## Component Documentation
+
+- [Frontend Documentation](README_FRONTEND.md)
+- [Backend Documentation](README_BACKEND.md)
+- [Database Documentation](README_DATABASE.md)
+- [SDK Documentation](README_SDK.md)
+- [MCP Server Documentation](README_MCPSERVER.md)
+
+## Overview
+
 # payai-planning
 Planning our Human to Agent monetization system
 
